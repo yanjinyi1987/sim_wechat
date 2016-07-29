@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">微信布局作业</string>
+    <string name="welcome_info">模拟微信布局</string>
+    <string name="author">yanjijnyi1987</string>
+    <string name="wechat_version">微信 6.3.7</string>
+    <string name="wechat_private">使用条款和隐私政策</string>
+    <string name="wechat_tencent">腾讯公司 版权所有</string>
+    <string name="wechat_copyright">Copyright &#169; 2011-2015 Tencent.</string>
+    <string name="wechat_rights">All Rights Reserved.</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="wechat_listview_item_margin_horizontal">14dp</dimen>
+    <dimen name="wechat_listview_item_margin_vertical">14dp</dimen>
+    <dimen name="wechat_listview_divider_height">0.3333dp</dimen>
+
+    <dimen name="wechat_textSize_blue">14sp</dimen>
+    <dimen name="wechat_textSize_gray">12sp</dimen>
+</resources>

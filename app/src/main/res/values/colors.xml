@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="my_red">#f42a2a</color>
+    <color name="my_white">#c9bebe</color>
+    <color name="my_time_color">#ffffff</color>
+    <color name="wechat_background1">#ebebeb</color>
+    <color name="wechat_background2">#373b3e</color>
+    <color name="wechat_background3">#d8d8d8</color>
+    <color name="wechat_item_focused">#d9d9d9</color>
+    <color name="wechat_textcolor1">#989898</color>
+    <color name="wechat_textcolor2">#576991</color>
+    <color name="wechat_textcolor3">#2e2e2e</color>
+</resources>
